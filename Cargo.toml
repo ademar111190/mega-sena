@@ -1,0 +1,7 @@
+[package]
+name = "megasena"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+unidecode = "0.3.0"
