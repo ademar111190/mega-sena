@@ -10,6 +10,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "megasena-cli"
+version = "1.0.0"
+dependencies = [
+ "megasena",
+]
+
+[[package]]
 name = "unidecode"
 version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"

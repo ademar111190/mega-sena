@@ -1,0 +1,8 @@
+[package]
+name = "megasena-cli"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies.megasena]
+path = "../megasena"
+version = "1.0.0"
